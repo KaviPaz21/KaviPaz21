@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pasindu Kavinda</h1>
 <h3 align="center">AI Undergraduate at University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">Consultant - Data & AI, H-One Private Limited</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavipaz21&label=Profile%20views&color=0e75b6&style=flat" alt="kavipaz21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavipaz21" alt="kavipaz21" /></a> </p>
 
-- 🔭 I’m currently working on [Ezy-HR](git@github.com:KaviPaz21/Eazy-HR.git)
 
-- 🌱 I’m currently learning **ML , .Net core and Tensorflow**
+
+- 🌱 I’m currently Genetic Algorithms **GA , NLP  and Data wearehousing**
 
 - 👨‍💻 All of my projects are available at [https://pasindukavinda.netlify.app/](https://pasindukavinda.netlify.app/)
 
-- 💬 Ask me about **react,java, tailwind, Flask**
+- 💬 Ask me about **react,java,ProLog,python,**
 
 - 📫 How to reach me **pasindu2021kavinda@gmail.com**
 
