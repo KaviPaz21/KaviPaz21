@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pasindu Kavinda</h1>
 <h3 align="center">AI Undergraduate at University of Moratuwa, Sri Lanka</h3>
-<h3 align="center">Consultant - Data & AI, H-One Private Limited</h3>
+<h3 align="center">Data & AI Engineer, H-One Private Limited</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavipaz21&label=Profile%20views&color=0e75b6&style=flat" alt="kavipaz21" /> </p>
 
